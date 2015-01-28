@@ -1,5 +1,5 @@
 /*
  *= require_self
- */
- @import 'normalize';
- @import 'custom.css.scss';
+*/
+@import 'normalize.css.scss';
+@import 'custom.css.scss';
